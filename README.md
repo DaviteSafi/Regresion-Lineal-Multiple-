@@ -25,6 +25,6 @@ Objetivo:
     Aplicar regresión lineal múltiple para modelar la relación entre diferentes características aerodinámicas y el nivel de presión sonora, analizando la significancia de las variables predictoras y evaluando el desempeño del modelo en datos de entrenamiento y validación.
 
 Este proyecto incluye los siguientes documentos:
-- [Jupyter NoteBook](Regresion_Lineal_Multiple.ipynb)
+- [Jupyter NoteBook](Regresion%20Lineal%20Multiple.ipynb)
 - [Datos](NASA.csv)
-- [Reporte en HTML](Regresion_Lineal_Multiple.html)
+- [Reporte en HTML](Regresion%20Lineal%20Multiple.html)
